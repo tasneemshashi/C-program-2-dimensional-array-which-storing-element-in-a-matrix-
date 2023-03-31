@@ -1,4 +1,4 @@
-C-program-2-dimensional-array-which-storing-element-in-a-matrix
+
 #include<stdio.h>
 int main(){
    int disp[2][3];
